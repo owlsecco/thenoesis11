@@ -5,7 +5,7 @@ import logo from './logo.png';
 export default function Logo() {
   return (
     <img
-      width="100"
+      width="120"
       fill={'primary'}
       src={logo}
       alt="The Noesis Gradient Text Logo"
