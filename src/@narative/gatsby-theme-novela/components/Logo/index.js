@@ -5,7 +5,7 @@ import logo from './logo.png';
 export default function Logo() {
   return (
     <img
-      width="50"
+      width="80"
       fill={'primary'}
       src={logo}
       alt="Our Text Logo"
