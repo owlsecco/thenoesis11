@@ -9,9 +9,9 @@ const Logo: Icon = ({ fill = "white" }) => {
   return (
     <LogoContainer>
       <svg
-        width="202"
-        height="33"
-        viewBox="0 0 200 30"
+        width="277.246"
+        height="34.211"
+        viewBox="0 0 277.246 34.211"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         className="Logo__Desktop"
