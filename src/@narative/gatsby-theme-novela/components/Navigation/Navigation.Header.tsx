@@ -124,8 +124,8 @@ const NavigationHeader: React.FC<{}> = () => {
           <Logo fill={fill} />
           <Hidden>Navigate back to the homepage</Hidden>
           {/* Gavin 20200719: Lazy ass navigation links */}
-          <div style={{marginLeft: '25px', marginRight: '25px'}}><Link to="/" style={{fontWeight: 'bolder', color: fill}}>Home</Link></div>
-          <div style={{marginLeft: '25px', marginRight: '25px'}}><Link to="/about" style={{fontWeight: 'bolder', color: fill}}>About</Link></div>
+          <div style={{marginLeft: '20px', marginRight: '20px'}}><Link to="/" style={{fontWeight: 'bolder', color: fill}}>Home</Link></div>
+          <div style={{marginLeft: '20px', marginRight: '20px'}}><Link to="/about" style={{fontWeight: 'bolder', color: fill}}>About</Link></div>
         </LogoLink>
         <NavControls>
           {showBackArrow ? (

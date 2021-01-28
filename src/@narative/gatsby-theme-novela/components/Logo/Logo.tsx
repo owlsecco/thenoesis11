@@ -10,8 +10,8 @@ const Logo: Icon = ({ fill = "white" }) => {
     <LogoContainer>
       <svg
         width="192"
-        height="23"
-        viewBox="0 0 192 23"
+        height="25"
+        viewBox="0 0 192 25"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         className="Logo__Desktop"
@@ -22,15 +22,15 @@ const Logo: Icon = ({ fill = "white" }) => {
         </text>
         <defs>
           <clipPath id="clip0">
-            <rect width="191.156" height="23" fill="white" />
+            <rect width="191.156" height="25" fill="white" />
           </clipPath>
         </defs>
       </svg>
 
       <svg
         width="18"
-        height="23"
-        viewBox="0 0 18 23"
+        height="25"
+        viewBox="0 0 18 25"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         className="Logo__Mobile"
