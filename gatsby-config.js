@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://thenoesis11.netlify.app`,
     description: `Welcome to The Noesis Ke. Where We Take Deep Dive Into Science and Technology To Bring You Quality Explainers, Guides, Reviews and more`,
     hero: {
-      heading: `A Deep Dive Into Thhe Tech and Science Space.`,
+      heading: `A Deep Dive Into The Tech and Science Space.`,
       maxWidth: 652,
     },
     social: [
