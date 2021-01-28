@@ -1,5 +1,7 @@
 backend: # Set up your backend
-  name: gitlab
+  name: github
+  repo: owlsecco/thenoesis11
+  branch: master
 
 local_backend: true # Optional if you want to use the local proxy mode
 
