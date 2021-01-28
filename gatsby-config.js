@@ -1,33 +1,21 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `The Noesis ke`,
+    name: `The Noesis`,
+    siteUrl: `https://thenoesis11.netlify.app`,
+    description: `Welcome to The Noesis Ke. Where We Take Deep Dive Into Science and Technology To Bring You Quality Explainers, Guides, Reviews and more`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `A Deep Dive Into Thhe Tech and Science Space.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
-        name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://twitter.com/thenoesiske`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://instagram.com/thenoesiske`,
       },
     ],
   },
@@ -48,11 +36,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `The Noesis`,
+        short_name: `Noesis`,
         start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#fff`,
+        background_color: `#000`,
+        theme_color: `#000`,
         display: `standalone`,
         icon: `src/assets/favicon.png`,
       },
