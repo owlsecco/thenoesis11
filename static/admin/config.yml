@@ -1,7 +1,6 @@
-backend: # Set up your backend
-  name: github
-  repo: owlsecco/thenoesis11
-  branch: master
+backend:
+  name: git-gateway
+  branch: master # Branch to update
 
 local_backend: true # Optional if you want to use the local proxy mode
 
